@@ -1,0 +1,94 @@
+body{
+    font-family: 'poppins', 'sans-serif';
+    text-align: center;
+}
+#main{
+    margin: 30px;
+    padding: 15px;
+    border-radius: 5px;
+    background: rgb(138, 7, 7);
+}
+#title{
+    color: azure;
+    font-size: 3.5rem;
+    line-height: 1.2;
+    font-weight: bold;
+    text-align: center;
+
+}
+h1{
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#fig-image{
+    background-image: url(student.jpg);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-color: rgb(124, 21, 21);
+    padding: 10px;
+    margin: 0;
+
+}
+
+figure{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+#imagecap{
+    color:aliceblue;
+    margin: 15px 0 5px 0;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+section{
+    display: block;
+}
+
+#tribute-heading{
+    margin: 50px 0;
+    text-align: center;
+}
+
+h3{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#Tribute-info{
+    color:white;
+    
+    
+}
+
+li{
+    margin: 16px 0;
+}
+
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    
+    
+}
+blockquote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
